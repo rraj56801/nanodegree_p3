@@ -2,31 +2,31 @@
 
 ![alt text](screenshots/log.png "Description goes here")
 
-![alt text](screenshots/quizlogo.JPEG "Description goes here")
+![alt text](screenshots/quizlogo.JPG "Description goes here")
 
-![alt text](screenshots/image1.JPEG "Description goes here")
+![alt text](screenshots/image1.JPG "Description goes here")
 
-![alt text](screenshots/image2.JPEG "Description goes here")
+![alt text](screenshots/image2.JPG "Description goes here")
 
-![alt text](screenshots/image3.JPEG "Description goes here")
+![alt text](screenshots/image3.JPG "Description goes here")
 
-![alt text](screenshots/image4.JPEG "Description goes here")
+![alt text](screenshots/image4.JPG "Description goes here")
 
-![alt text](screenshots/image5.JPEG "Description goes here")
+![alt text](screenshots/image5.JPG "Description goes here")
 
-![alt text](screenshots/image6.JPEG "Description goes here")
+![alt text](screenshots/image6.JPG "Description goes here")
 
-![alt text](screenshots/image7.JPEG "Description goes here")
+![alt text](screenshots/image7.JPG "Description goes here")
 
-![alt text](screenshots/image8.JPEG "Description goes here")
+![alt text](screenshots/image8.JPG "Description goes here")
 
-![alt text](screenshots/image9.JPEG "Description goes here")
+![alt text](screenshots/image9.JPG "Description goes here")
 
-![alt text](screenshots/image10.JPEG "Description goes here")
+![alt text](screenshots/image10.JPG "Description goes here")
 
-![alt text](screenshots/image11.JPEG "Description goes here")
+![alt text](screenshots/image11.JPG "Description goes here")
 
-![alt text](screenshots/image12.JPEG "Description goes here")
+![alt text](screenshots/image12.JPG "Description goes here")
 
 # androidnanodegree
 #Images used may belong to different organisations.
