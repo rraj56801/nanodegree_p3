@@ -2,7 +2,7 @@
 
 ![alt text](screenshots/log.png "Description goes here")
 
-![alt text](screenshots/quizlogo.JPG "Description goes here")
+![alt text](screenshots/quizlogo.jpg "Description goes here")
 
 ![alt text](screenshots/image1.JPG "Description goes here")
 
