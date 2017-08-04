@@ -1,27 +1,32 @@
 # nanodegree_p3
-![alt text](screenshot/image1.jpeg "Description goes here")
 
-![alt text](screenshot/image2.jpeg "Description goes here")
+![alt text](screenshots/log.png "Description goes here")
 
-![alt text](screenshot/image3.jpeg "Description goes here")
+![alt text](screenshots/quizlogo.png "Description goes here")
 
-![alt text](screenshot/image4.jpeg "Description goes here")
+![alt text](screenshots/image1.jpeg "Description goes here")
 
-![alt text](screenshot/image5.jpeg "Description goes here")
+![alt text](screenshots/image2.jpeg "Description goes here")
 
-![alt text](screenshot/image6jpeg "Description goes here")
+![alt text](screenshots/image3.jpeg "Description goes here")
 
-![alt text](screenshot/image7.jpeg "Description goes here")
+![alt text](screenshots/image4.jpeg "Description goes here")
 
-![alt text](screenshot/image8.jpeg "Description goes here")
+![alt text](screenshots/image5.jpeg "Description goes here")
 
-![alt text](screenshot/image9.jpeg "Description goes here")
+![alt text](screenshots/image6jpeg "Description goes here")
 
-![alt text](screenshot/image10.jpeg "Description goes here")
+![alt text](screenshots/image7.jpeg "Description goes here")
 
-![alt text](screenshot/image11.jpeg "Description goes here")
+![alt text](screenshots/image8.jpeg "Description goes here")
 
-![alt text](screenshot/image12.jpeg "Description goes here")
+![alt text](screenshots/image9.jpeg "Description goes here")
+
+![alt text](screenshots/image10.jpeg "Description goes here")
+
+![alt text](screenshots/image11.jpeg "Description goes here")
+
+![alt text](screenshots/image12.jpeg "Description goes here")
 # androidnanodegree
 #Images used may belong to different organisations.
 #App Logo belongs to some real world organisation.
